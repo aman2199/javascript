@@ -1,0 +1,9 @@
+let name ='Aman';
+console.log(name);
+// meaningful
+// are case sensetive
+// no numbers
+// no reserved keywords
+let intersetRate = 0.5;
+intersetRate =0.5;
+console.log(intersetRate);
